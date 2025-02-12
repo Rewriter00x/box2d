@@ -10,7 +10,6 @@ project "Box2D"
     files
     {
         "src/**.h",
-        "src/**.cpp",
         "src/**.c",
         "include/**.h",
     }
