@@ -11,6 +11,7 @@ project "Box2D"
     {
         "src/**.h",
         "src/**.cpp",
+        "src/**.c",
         "include/**.h",
     }
 
